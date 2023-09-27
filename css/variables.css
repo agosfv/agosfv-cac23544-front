@@ -1,0 +1,8 @@
+:root{
+    --primary-color: rgb(201, 146, 28);
+    --secondary-color: rgb(255, 184, 255);
+    --succes: green;
+    --danger: brown;
+    --error: red;
+    --info: lightblue;
+}

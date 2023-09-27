@@ -1,0 +1,29 @@
+.header{
+    background: salmon;
+}
+.img{
+    border-radius: 80%;
+    width: 20vw;
+}
+.titulo{
+    text-align: right;
+    display: inline-block;
+}
+.datos {
+    color: red;
+}
+.datosLista{
+    list-style: circle;
+}
+
+.educacion{
+
+}
+
+.idiiomas{
+    
+}
+
+.experiencia{
+
+}

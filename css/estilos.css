@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+
+:root{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    color: darkolivegreen;
+}
+
+main{
+    font-size: 20px;
+}
+
+.mainHeader {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    border: 1rem solid salmon;
+    background: yellow;
+    border-radius: 10px;
+}
+
+.mainHeader h1{
+    color: black;
+}
+.mainConteiner {
+    font-size: 25px;
+    background: fuchsia;
+    height: 50vh;
+
+}
+
+.mainSection{
+    border: 1px solid blue;
+}
+.left-side{
+    background: teal
+}
+
+.inlineBlock{
+display: inline-block;
+}
+.w50{
+    width: 48%;
+}
+.right-side{
+    background: darkmagenta;
+
+}
+
+.mainFooter{
+    border: .5rem solid sienna;
+    font-style: oblique;
+    border-radius: 10px;
+
+}

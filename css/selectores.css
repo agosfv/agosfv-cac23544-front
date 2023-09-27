@@ -1,0 +1,46 @@
+div p{
+    color: green;
+}
+
+p {
+    color: brown;
+}
+
+p > strong {
+    color: hotpink;
+}
+
+h1 + p {
+    color: aquamarine;
+}
+
+h2 ~ p {
+    color: salmon;
+}
+
+a{
+    font-size: 2.5em;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a[title= 'google'] {
+    color: blue;
+}
+
+a[href*='face']{
+    color: green;
+}
+a[href ^='https']{
+    color: gold;
+}
+a[href $= 'er.com']{
+    color: black;
+}
+a[class~='primary'] {
+    color:black;
+    background-color: yellow;
+}
+a[atrx='bla'] {
+    color: white;
+    background-color: black;
+}
